@@ -1,0 +1,16 @@
+//User function Template for javascript
+
+/**
+ * @param {Node} root
+ * @param {number} x
+ * @returns {Node}
+*/
+
+class Solution
+{
+    //Function to delete a node from BST.
+    deleteNode(root, x)
+    {
+        //your code here
+    }
+}
