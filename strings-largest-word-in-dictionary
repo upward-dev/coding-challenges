@@ -1,0 +1,15 @@
+
+//User function Template for javascript
+
+
+/**
+ * @param {string} s
+ * @param {string[]} d
+ * @returns {string}
+*/
+
+class Solution{
+    findLongestWord(s, d){
+        //code here
+    }
+}
