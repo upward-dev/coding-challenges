@@ -1,0 +1,12 @@
+//User function Template for javascript
+
+/**
+ * @param {string} s
+ * @returns {number}
+ */
+
+class Solution {
+    isValid(s){ 
+      //code here
+    }
+}
