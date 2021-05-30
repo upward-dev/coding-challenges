@@ -1,5 +1,4 @@
 # coding-challenges
-Coding Challenges
 
 Compilation of coding challenges similar to what companies ask for.
 
